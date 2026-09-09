@@ -15,15 +15,15 @@ Log in to the game using SSH on port 2220.
    ssh bandit0@bandit.labs.overthewire.org -p 2220
 where ssh denotes the protocol and -p means port which is 2220
 
-2. enter password
+2. enter the password: bandit0
 
-3.  
+3.  List the contents of the current directory:
 ```bash
    ls
    where ls means to list the files and directories in your current location
-4. A readme file will be displayed
+4. Identify the readme file displayed in the output
 
-5. 
+5. Display the contents of the readme file to retrieve the password for Level 1:
 ```bash
    cat readme
    where cat is used to display the contents of a file in the terminal
