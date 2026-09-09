@@ -7,16 +7,20 @@ Retrieve the password stored in a hidden file inside the `inhere` directory.
 1. Connect to the OverTheWire SSH server using the `bandit3` account:
     ```bash
     ssh bandit3@bandit.labs.overthewire.org -p 2220
+
+2. List the files in the home directory:
+    ```bash
+    ls
     
-2. Navigate into the `inhere` directory:
+3. Navigate into the `inhere` directory:
     ```bash
     cd inhere
     
-3. List all files, including hidden dotfiles:
+4. List all files, including hidden dotfiles:
     ```bash
     ls -al
     
-4. Read the contents of the hidden file:
+5. Read the contents of the hidden file:
     ```bash
     cat ...Hiding-From-You
 
