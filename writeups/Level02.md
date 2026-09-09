@@ -4,11 +4,13 @@
 Retrieve the password stored in a file named `spaces in this filename` located in the home directory.
 
 ## Walkthrough
-
-1. List the files in the home directory:
+1. Connect to the OverTheWire SSH server using the `bandit1` account:
+    ```bash
+    ssh bandit2@bandit.labs.overthewire.org -p 2220
+2. List the files in the home directory:
     ```bash
     ls
-2. Read the contents of the file
+3. Read the contents of the file
     ```bash
     cat ./"--spaces in this filename--"
 where double quotes "" group the spaced arguments into a single filename parameter for cat.
