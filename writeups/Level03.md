@@ -1,5 +1,3 @@
-### `writeups/level03.md`
-```markdown
 # Bandit Level 3 → Level 4
 
 ## Objective
