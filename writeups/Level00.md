@@ -11,22 +11,22 @@ Log in to the game using SSH on port 2220.
 
 ## Walkthrough (type this in powershell)
 1. Connect to the OverTheWire SSH server:
-   ```bash
-   ssh bandit0@bandit.labs.overthewire.org -p 2220
+     ```bash
+     ssh bandit0@bandit.labs.overthewire.org -p 2220
 where ssh denotes the protocol and -p means port which is 2220
 
 2. enter the password: bandit0
 
 3.  List the contents of the current directory:
-   ```bash
-   ls
+     ```bash
+     ls
 where ls means to list the files and directories in your current location
 
 4. Identify the readme file displayed in the output
 
 5. Display the contents of the readme file to retrieve the password for Level 1:
-   ```bash
-   cat readme
+     ```bash
+     cat readme
 where cat is used to display the contents of a file in the terminal
    <img width="996" height="234" alt="image" src="https://github.com/user-attachments/assets/6907ccdc-2b2e-4ea3-8b49-f6b25eb08392" />
 
