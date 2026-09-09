@@ -1,11 +1,11 @@
 # Bandit Level 12 → Level 13
 
 ## Objective
-Decompress a repeatedly compressed hex-dump file.
+Retrieve the password for Level 13 stored in `data.txt`, which is a hexdump of a repeatedly compressed file.
 
 ## Walkthrough
-1. Connect to the OverTheWire SSH server using the `bandit12` account:
-    ```bash
-    ssh bandit12@bandit.labs.overthewire.org -p 2220
 
-2. 
+1. Create a workspace in the temporary directory to avoid modifying files in your home folder:
+
+   ```bash
+   mktemp -d
