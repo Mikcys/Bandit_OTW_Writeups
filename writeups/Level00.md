@@ -18,14 +18,15 @@ where ssh denotes the protocol and -p means port which is 2220
 2. enter the password: bandit0
 
 3.  List the contents of the current directory:
-```bash
+   ```bash
    ls
-   where ls means to list the files and directories in your current location
+where ls means to list the files and directories in your current location
+
 4. Identify the readme file displayed in the output
 
 5. Display the contents of the readme file to retrieve the password for Level 1:
-```bash
+   ```bash
    cat readme
-   where cat is used to display the contents of a file in the terminal
+where cat is used to display the contents of a file in the terminal
    <img width="996" height="234" alt="image" src="https://github.com/user-attachments/assets/6907ccdc-2b2e-4ea3-8b49-f6b25eb08392" />
 
