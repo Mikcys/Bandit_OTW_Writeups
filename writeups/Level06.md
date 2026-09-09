@@ -17,7 +17,8 @@ where / searches the entire filesystem, -user and -group match ownership, -size 
 3. Read the flag from the returned path:
     ```bash
     cat /var/lib/dpkg/info/bandit7.password
-<img width="567" height="35" alt="image" src="https://github.com/user-attachments/assets/380b3650-2a0d-4178-8192-4b37da11f5a8" />
+<img width="567" height="36" alt="image" src="https://github.com/user-attachments/assets/d5317c39-d6b4-4300-92cb-858ce0481f91" />
+
 
 
 
