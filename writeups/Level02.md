@@ -4,7 +4,7 @@
 Retrieve the password stored in a file named `spaces in this filename` located in the home directory.
 
 ## Walkthrough
-1. Connect to the OverTheWire SSH server using the `bandit1` account:
+1. Connect to the OverTheWire SSH server using the `bandit2` account:
     ```bash
     ssh bandit2@bandit.labs.overthewire.org -p 2220
 2. List the files in the home directory:
