@@ -17,4 +17,5 @@ Find the human-readable string in binary file `data.txt` preceded by several `=`
    ```bash
    strings data.txt | grep "="
 
-   <img width="581" height="277" alt="image" src="https://github.com/user-attachments/assets/d6e9f008-a584-4c0c-965a-819a624548af" />
+<img width="581" height="277" alt="image" src="https://github.com/user-attachments/assets/08d3f5a4-fe70-4aa0-8ac9-e1adf567eb32" />
+
