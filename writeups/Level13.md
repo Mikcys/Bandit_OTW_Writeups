@@ -48,7 +48,7 @@ And preferably save it somewhere easy, such as:
 Desktop 
 
 ⚠️ Make sure Windows doesn't save it as:
-    ```bash
+    
     ssh.private.txt
 
 6. Now exit from bandit 16
