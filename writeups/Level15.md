@@ -23,8 +23,8 @@ At the bottom, you should get a place where you can enter data.
 Paste the bandit15 password and press Enter.
 
 The server should respond with the bandit16 password.
-<img width="745" height="917" alt="image" src="https://github.com/user-attachments/assets/aff7bc35-b0bf-4bbd-bbf8-1cb80098dae7" />
-<img width="1227" height="952" alt="image" src="https://github.com/user-attachments/assets/051178b3-b723-4d31-be5a-2bdde5f1ff9d" />
+<img width="745" height="60" alt="image" src="https://github.com/user-attachments/assets/a8d04021-4558-4d4c-9e45-cc4307c96730" />
+
 <img width="1191" height="832" alt="image" src="https://github.com/user-attachments/assets/131178ac-3492-4d56-a6be-882868aa3109" />
 
 
