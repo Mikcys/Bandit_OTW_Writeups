@@ -32,15 +32,15 @@ and ends like:
 Do not change anything inside it.
 
 In Notepad:
-    ```bash
+  
     File → Save As
 
 For the filename, enter:
-    ```bash
+    
     sshkey.private
 
 For Save as type, choose:
-    ```bash
+ 
     All Files (*.*)
 
 And preferably save it somewhere easy, such as:
@@ -49,7 +49,7 @@ Desktop
 
 ⚠️ Make sure Windows doesn't save it as:
     ```bash
-    sshkey.private.txt
+    ssh.private.txt
 
 6. Now exit from bandit 16
     ```bash
