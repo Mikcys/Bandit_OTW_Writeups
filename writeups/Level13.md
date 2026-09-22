@@ -49,7 +49,7 @@ Desktop
 
 ⚠️ Make sure Windows doesn't save it as:
     
-    ssh.private.txt
+    sshkey.private.txt
 
 6. Now exit from bandit 16
     ```bash
