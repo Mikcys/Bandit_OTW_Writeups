@@ -12,7 +12,7 @@ Retrieve the password for Level 13 stored in `data.txt`, which is a hexdump of a
     ```bash
     cat /etc/bandit_pass/bandit14
 
-    <img width="542" height="38" alt="image" src="https://github.com/user-attachments/assets/13e9ec6a-4435-4a82-847e-fd1b4a7c888e" />
+<img width="542" height="38" alt="image" src="https://github.com/user-attachments/assets/13e9ec6a-4435-4a82-847e-fd1b4a7c888e" />
 
 3.  Send the password to port 30000:
     ```bash
